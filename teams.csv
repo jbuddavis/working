@@ -1,4 +1,4 @@
-teamId,institutionKey,school,mascot,abbreviation,conference,conferenceAbbreviation,sport,type,level,color,alt_color,city,state,latitude,latitude,logo
+teamId,institutionKey,school,mascot,abbreviation,conference,conferenceAbbreviation,sport,type,level,color,alt_color,city,state,latitude,longitude,logo
 146,24087,Arizona,Wildcats,ARIZ,Pacific-12,Pac-12,Football,College,P5,#002449,#00205b,Tucson,AZ,32.2288054,-110.9488677,http://a.espncdn.com/i/teamlogos/ncaa/500/12.png
 11,24012,Maryland,Terrapins,MD,Big Ten,Big-Ten,Football,College,P5,#D5002B,#ffcd00,College Park,MD,38.9903332,-76.9473792,http://a.espncdn.com/i/teamlogos/ncaa/500/120.png
 73,24043,Michigan State,Spartans,MSU,Big Ten,Big-Ten,Football,College,P5,#18453B,#ffffff,East Lansing,MI,42.7281474,-84.4848526,http://a.espncdn.com/i/teamlogos/ncaa/500/127.png
